@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SQLDB_Connection": "Server=LAPTOP-1DAHCT12;Database=DurableDB;User Id=sa;Password=1c3b3am7K_",
+    "AzureWebJobsSecretStorageType": "Files"
+  }
+}
